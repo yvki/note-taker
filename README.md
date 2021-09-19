@@ -3,4 +3,5 @@ A simple note-taking app developed using HTML and Vanilla JavaScript framework, 
 
 ### Other Notes
 1. This project has **no association to any other note-taking apps in real life**. Purely developed for experimenting purposes.
-2. To view the app, simply download the codes into Visual Studio Code and **right-click** to open in browser.
+2. The favicon used is obtained from Flaticon, an open-source icon platform, so there should be no infringement of copyright.
+3. To view the app, simply download the codes into Visual Studio Code and **right-click** to open in browser.
